@@ -8,7 +8,8 @@ html {
   body {
     margin: 0;
     min-height: 100vh;
-    background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(14,0,242,1) 100%);;
+    background-image: linear-gradient(to left bottom, #20e553, #00dbac, #00c9f1, #00b0ff, #008eff, #2278f7, #4060eb, #5944db, #5f3bd1, #6332c6, #6727bc, #691bb1);
+    /* background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(14,0,242,1) 100%);; */
     display: flex;
     justify-content: center;
     align-items: center;

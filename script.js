@@ -13,24 +13,24 @@ const nextBtn = document.getElementById('next');
 // Music array
 const songs = [
     {
-        name: 'jacinto-1',
-        displayName: 'ELectric Chill Machine',
-        artist: "Jacinto Design",
+        name: 'meditation1',
+        displayName: '5 Minute Meditation',
+        artist: "Take a Breath",
     },
     {
-        name: 'jacinto-2',
-        displayName: 'Seven Nation Army (Remix)',
-        artist: "Jacinto Design",
+        name: 'meditation2',
+        displayName: '10 Minute Meditation',
+        artist: "Calm Your mind",
     },
     {
-        name: 'jacinto-3',
-        displayName: 'Goodnight, Disco Queen',
-        artist: "Jacinto Design",
+        name: 'meditation3',
+        displayName: '20 Minute Meditation',
+        artist: "Focus Your Space",
     },
     {
-        name: 'metric-1',
-        displayName: 'Front Row',
-        artist: "Jacinto Design",
+        name: 'meditation4',
+        displayName: '30 Minute Meditation',
+        artist: "Delve Deep",
     },
 ]
 
